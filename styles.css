@@ -1,0 +1,11 @@
+img {
+    height: 200px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid #367588;
+    padding: 10px;
+}
+
